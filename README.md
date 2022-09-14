@@ -1,6 +1,6 @@
 # 生成课表ics文件
 
-![截屏2022-09-14 下午1.30.43](/Users/isjhan/Documents/code/utils/ClassSchedule/imgs/:Users:isjhan:Library:Application Support:typora-user-images:截屏2022-09-14 下午1.30.43.png)
+![截屏2022-09-14 下午1.30.43](./imgs/:Users:isjhan:Library:Application Support:typora-user-images:截屏2022-09-14 下午1.30.43.png)
 
 ### 💡 如何使用
 
